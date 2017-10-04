@@ -1,0 +1,25 @@
+{
+  "name": "quiz-game-with-react",
+  "version": "1.0.0",
+  "description": "\"# quiz-game-with-react\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusdms/quiz-game-with-react.git"
+  },
+  "author": "Matheus das Mercês",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusdms/quiz-game-with-react/issues"
+  },
+  "homepage": "https://github.com/matheusdms/quiz-game-with-react#readme",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  }
+}
